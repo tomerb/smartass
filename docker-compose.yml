@@ -1,0 +1,7 @@
+version: "3.9"
+services:
+  engine:
+    build: .
+    volumes:
+      - ./models:/opt/smartass/models
+      - ./datasets:/opt/smartass/datasets

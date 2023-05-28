@@ -1,0 +1,8 @@
+pygpt4all==1.0.1
+langchain==0.0.153
+unstructured
+pdf2image
+pytesseract
+pypdf
+faiss-cpu
+llama-cpp-python
